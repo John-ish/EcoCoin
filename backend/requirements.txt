@@ -6,3 +6,5 @@ pillow>=10.2.0
 numpy>=1.26.0
 requests>=2.31.0
 ultralytics>=8.1.0
+google-generativeai
+python-dotenv

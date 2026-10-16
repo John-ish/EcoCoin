@@ -14,6 +14,11 @@ REWARD_POLICY = {
     "organic": {"coins": 6, "weight_kg": 0.25, "co2_saved_kg": 0.15},
     "general": {"coins": 2, "weight_kg": 0.10, "co2_saved_kg": 0.05},
     "multi-stream": {"coins": 10, "weight_kg": 0.18, "co2_saved_kg": 0.22},
+    "chemical": {"coins": 20, "weight_kg": 0.30, "co2_saved_kg": 0.50},
+    "e-waste": {"coins": 25, "weight_kg": 0.40, "co2_saved_kg": 0.60},
+    "biomedical": {"coins": 18, "weight_kg": 0.15, "co2_saved_kg": 0.35},
+    "construction": {"coins": 5, "weight_kg": 0.50, "co2_saved_kg": 0.10},
+    "cardboard": {"coins": 7, "weight_kg": 0.20, "co2_saved_kg": 0.12},
 }
 
 CONFIDENCE_AUTO_APPROVE_THRESHOLD = 0.80
